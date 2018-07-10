@@ -2,6 +2,7 @@ public class Trangle {
     public static void main(String[]args){
 
         draw();
+        System.out.println("branch");
     }
 
     private static void draw(){
